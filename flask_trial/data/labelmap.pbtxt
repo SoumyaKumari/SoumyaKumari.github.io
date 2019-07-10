@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'Brown Spot'
+}
+
+item {
+  id: 2
+  name: 'False Smut'
+}
+
+item {
+  id: 3
+  name: 'Leaf Folder'
+}
+
+item {
+  id: 4
+  name: 'Paddy Stemborer'
+}
